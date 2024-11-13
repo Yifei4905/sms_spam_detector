@@ -1,0 +1,7 @@
+Enter your SMS Message.,Prediction,timestamp
+You won 2 free tickets to the Super Bowl,"The text message: ""You won 2 free tickets to the Super Bowl"", is not spam.",2024-11-13 17:37:49.904511
+You won 2 free tickets to the Super Bowl,"The text message: ""You won 2 free tickets to the Super Bowl"", is not spam.",2024-11-13 17:37:58.345751
+You are a lucky winner of $5000!,"The text message: ""You are a lucky winner of $5000!"", is not spam.",2024-11-13 17:38:10.006663
+You won 2 free tickets to the Super Bowl text us to claim your prize.,"The text message: ""You won 2 free tickets to the Super Bowl text us to claim your prize."", is spam.",2024-11-13 17:38:18.732888
+You are a lucky winner of $5000!,"The text message: ""You are a lucky winner of $5000!"", is not spam.",2024-11-13 17:38:35.526301
+You won 2 free tickets to the Super Bowl.,"The text message: ""You won 2 free tickets to the Super Bowl."", is not spam.",2024-11-13 17:38:46.484318
